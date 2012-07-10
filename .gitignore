@@ -6,6 +6,7 @@ tmp/cache/persistent/*
 tmp/logs/*
 
 #extjs
+webroot/css/resources/*
 webroot/js/ext-all-debug.js
 webroot/js/ext-all-dev.js
 webroot/js/ext-all.js

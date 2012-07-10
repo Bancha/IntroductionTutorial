@@ -129,3 +129,6 @@ Cache::config('default', array('engine' => 'File'));
  * CakePlugin::load('DebugKit'); //Loads a single plugin named DebugKit
  *
  */
+
+// Add Bancha to the current project
+CakePlugin::load(array('Bancha' => array('routes' => true, 'bootstrap' => true))); 
