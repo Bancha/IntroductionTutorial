@@ -1,0 +1,3 @@
+[submodule "Plugin/Bancha"]
+	path = Plugin/Bancha
+	url = https://github.com/Bancha/Bancha.git
