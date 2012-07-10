@@ -4,3 +4,8 @@
 Config/database.php
 tmp/cache/persistent/*
 tmp/logs/*
+
+#extjs
+webroot/js/ext-all-debug.js
+webroot/js/ext-all-dev.js
+webroot/js/ext-all.js
