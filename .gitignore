@@ -1,0 +1,6 @@
+.DS_Store
+
+# cakephp
+Config/database.php
+tmp/cache/persistent/*
+tmp/logs/*
